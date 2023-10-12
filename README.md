@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashba27
+- 👋 Hi, I’m Ashba
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI Projects
